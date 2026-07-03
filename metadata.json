@@ -1,0 +1,6 @@
+{
+  "name": "Khatli Pattern Generator",
+  "description": "An interactive design canvas and AI-powered generator for traditional Indian Khatli (khaat) embroidery, with mirror symmetry, materials estimation, and khaka (stencil/tracing) exportation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
